@@ -1,7 +1,8 @@
 using ll = long long;
 
 // SPDX-License-Identifier: CC0-1.0
-// from kactl (https://github.com/kth-competitive-programming/kactl)
+// Source: https://github.com/aqua-dhmo/cp-lib
+// Original: https://github.com/kth-competitive-programming/kactl
 
 // find integers (x, y) s.t. ax + by = gcd(a, b) and return gcd(a, b)
 // guaranteed that |x| <= |b / gcd(a, b)| && |y| <= |a / gcd(a, b)|

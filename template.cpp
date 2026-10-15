@@ -1,4 +1,6 @@
 // SPDX-License-Identifier: CC0-1.0
+// Source: https://github.com/aqua-dhmo/cp-lib
+// Used in ICPC team "Aobayama_BlueMountain"
 
 #include <bits/stdc++.h>
 using namespace std;
