@@ -1,3 +1,4 @@
+#pragma once
 using ll = long long;
 
 // SPDX-License-Identifier: CC0-1.0
